@@ -12,7 +12,8 @@ val listaDeRespostas = listOf<String>(
     "Um prazer",
     "Não me diga",
     "Não gosto",
-    "Isso eu adoro"
+    "Isso eu adoro",
+    "É mesmo"
 )
 
 
